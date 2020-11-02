@@ -1,0 +1,4 @@
+framework\CommonMethods.class
+tests\Tests.class
+framework\Locators.class
+framework\Data.class
